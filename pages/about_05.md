@@ -1,4 +1,4 @@
-# Solid Cable
+# Solid Cable on Rails 8.0
 
 * テーブルを追加するためのmigrationファイルではなく、専用のschemaファイルが生成される
 

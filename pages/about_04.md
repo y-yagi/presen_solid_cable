@@ -1,4 +1,4 @@
-# Solid Cable
+# Solid Cable on Rails 8.0
 
 * Rails 8.0で新規にアプリケーションを作成した場合、デフォルトでSolid Cableが使われるようになっている
 

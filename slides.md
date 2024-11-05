@@ -1,6 +1,6 @@
 ---
 theme: seriph
-title: About Solid Cache
+title: About Solid Cable
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -28,7 +28,6 @@ hide: false
 
 ---
 src: ./pages/about_02.md
-layout: center
 hide: false
 ---
 
@@ -48,11 +47,21 @@ hide: false
 ---
 
 ---
-src: ./pages/solid_cache_01.md
+src: ./pages/solid_cable_01.md
 hide: false
 ---
 
 ---
-src: ./pages/solid_cache_02.md
+src: ./pages/solid_cable_02.md
+hide: false
+---
+
+---
+src: ./pages/solid_cable_03.md
+hide: false
+---
+
+---
+src: ./pages/outro.md
 hide: false
 ---

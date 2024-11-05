@@ -1,4 +1,4 @@
 # Solid Cable
 
-* 他のSolidと異なり、37signals製プロダクト、ではない
-* 開発者は[Nick Pezza](https://github.com/npezza93)
+* 他のSolid系ライブラリと異なり、37signals製プロダクト、ではない
+* 作者は[Nick Pezza](https://github.com/npezza93)
