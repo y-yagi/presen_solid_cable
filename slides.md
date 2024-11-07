@@ -42,11 +42,6 @@ hide: false
 ---
 
 ---
-src: ./pages/about_05.md
-hide: false
----
-
----
 src: ./pages/solid_cable_01.md
 hide: false
 ---
@@ -58,6 +53,16 @@ hide: false
 
 ---
 src: ./pages/solid_cable_03.md
+hide: false
+---
+
+---
+src: ./pages/solid_cable_04.md
+hide: false
+---
+
+---
+src: ./pages/solid_cable_05.md
 hide: false
 ---
 

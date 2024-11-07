@@ -1,14 +1,4 @@
-# Solid Cable on Rails 8.0
+# Solid Cable on production
 
-* Rails 8.0で新規にアプリケーションを作成した場合、デフォルトでSolid Cableが使われるようになっている
-
-```yml
-# cable.yml
-production:
-  adapter: solid_cable
-  connects_to:
-    database:
-      writing: cable
-  polling_interval: 0.1.seconds
-  message_retention: 1.day
-```
+* 37signals製プロダクトではないので、37signalsがこれを本番で使用しているかは不明
+* 作者はすでに[本番で使用中](https://github.com/rails/solid_cable/issues/2#issuecomment-2153702157)とのこと
