@@ -14,6 +14,12 @@ transition: slide-left
 mdc: true
 favicon: https://ginzarb.github.io/favicon.ico
 canvasWidth: 1000
+
+fonts:
+  # basically the text
+  sans: 'M PLUS 1p'
+  # use with `font-serif` css class from windicss
+  serif: 'M PLUS 1p'
 ---
 
 ## Solid Cableについてまなぼう
