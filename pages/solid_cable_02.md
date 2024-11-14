@@ -1,5 +1,5 @@
-# Solid Cache vs PostgreSQL adapter
+# Solid Cable without Pub/Sub
 
-* PostgreSQLをadapterとして使っている場合、サイズ制限があった
-  * PostgreSQLのPub/Sub(NOTIFY)の制限で8kb
-* Solid Cableにはその制限は無い
+* メッセージ送信時に、古いメッセージを必要に応じて削除(Trimming処理)
+  * 削除処理はジョブで実装されているが、ライブラリとしては`perform_now`を使って即時実行
+  * データ量が多い場合負荷が掛かる可能性がある為、そういう場合はでアプリ側でジョブを非同期で明示的に実行してくれ、となっている

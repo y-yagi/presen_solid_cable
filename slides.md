@@ -73,6 +73,16 @@ hide: false
 ---
 
 ---
+src: ./pages/solid_cable_06.md
+hide: false
+---
+
+---
+src: ./pages/solid_cable_07.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
